@@ -10,7 +10,7 @@ Some notable results gotten from analysis of Pewlett Hackard employee data is li
 
 <img width="231" alt="retiring_titles" src="https://user-images.githubusercontent.com/100884241/164947608-e63be610-eb76-4be8-bc3e-d7bb4b42e3e0.png">
 
-•	Since >60% of the retiring employees are ’Senior’ in some capacity, there is mentorship eligibility opportunity present. This program is needed in order for Pewlett Hackard to continue operating at the same or similar level. The approximate number of employees to be trained is 1,549 - as gotten in the result for the query written for the ‘mentorship eligibility’ table.
+•	Since >60% of the retiring employees are ’Senior’ in some capacity, there is mentorship eligibility opportunity present. This program is needed in order for Pewlett Hackard to continue operating at the same or similar level. The approximate number of employees eligible for the mentorship program is 1,549 - as gotten in the result for the query written for the ‘mentorship eligibility’ table.
 
 <img width="520" alt="mentorship_eligibility" src="https://user-images.githubusercontent.com/100884241/164947763-a3a6f255-ce0d-4c69-9a4f-96a4ec77d420.png">
 
