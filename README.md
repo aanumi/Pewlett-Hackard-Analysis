@@ -21,8 +21,9 @@ Some notable results gotten from analysis of Pewlett Hackard employee data is li
 •	The number of all retiring employees amounts to about 24% of the workforce at Pewlett Hackard. 24% is significant as the company will see a decline in productivity if it doesn’t strategically prepare for the impacts of the silver tsunami.
   
   ## SUMMARY
- After analyzing the retiring titles chart, it is clear that 72,458 roles will become vacant as the impacts of the silver tsunami become evident. This is a large number of vacancies to fill, and Pewlett Hackard has to be strategic in addressing the impacts of the retirement tsunami. It may be a good time to conduct a review of roles, determine if there are any redundant roles that won’t need to be filled - so it can phase them out. In addition, projects should be reviewed as well to identify projects with the least impact on business needs.
-To address the question of whether or not there are enough qualified, retirement-ready employees for the mentorship program, there are about 1549 in number. This translates to a 46:1 trainee-mentor ratio - which shows that the silver tsunami outweighs the number of eligible mentors.
+	•	After analyzing the retiring titles chart, it is clear that 72,458 roles will become vacant as the impacts of the silver tsunami become evident. This is a large number of vacancies to fill, and Pewlett Hackard has to be strategic in addressing the impacts of the retirement tsunami. It may be a good time to conduct a review of roles, determine if there are any redundant roles that won’t need to be filled - so it can phase them out. In addition, projects should be reviewed as well to identify projects with the least impact on business needs.
+  
+	•	To address the question of whether or not there are enough qualified, retirement-ready employees for the mentorship program, there are about 1549 in number. This translates to a 46:1 trainee-mentor ratio - which shows that the silver tsunami outweighs the number of eligible mentors.
   
   ### TWO ADDITIONAL QUERIES FOR INSIGHT
 •	Running a query to determine the number of retiring employees by department. This will show what departments will lose the highest amount of employees, and help target mentorship efforts in an efficient manner.
